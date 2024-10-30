@@ -35,6 +35,10 @@ header{
     
 }
 
+h1{
+    text-align: center;
+}
+
 #video {
     color:#9B9B9B;
     text-align: center;
