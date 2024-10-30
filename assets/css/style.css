@@ -1,0 +1,56 @@
+html, body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.container{
+    width: 50vw;
+    margin: 0 auto;
+
+}
+
+hr{
+    border: none; 
+    height: 0.5px; 
+    background-color:#FFD671 ;
+}
+
+header{
+    text-align: center;
+}
+
+#logo-title {
+    margin: 0;
+    background-color: #FDFBF1;
+}
+
+#logo-title p{
+    margin: 0;
+    color: #024E4D;
+
+}
+
+.bold{
+    font-weight: bold;
+    
+}
+
+#video {
+    color:#9B9B9B;
+    text-align: center;
+}
+
+#colorh4{
+    color: #B54610;
+    margin: 0;
+    margin-left: 1px red;}
+
+.colorlink{
+    color: #147878;
+}
+
+.linecolor {
+    border: none; 
+    height: 0.5px; 
+    background-color:#7CD5D5;
+}
